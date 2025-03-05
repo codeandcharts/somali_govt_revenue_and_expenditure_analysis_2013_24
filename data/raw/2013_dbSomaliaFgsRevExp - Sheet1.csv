@@ -1,0 +1,293 @@
+standardName,state,year,month,period,main,costCenterMain,costCenterMainDesc,name1,name3,name5,obj1,obj2,obj3,obj4,obj6,name5desc,obj4desc,obj6desc,gfs2,gfs3,gfs4,gfs2desc,gfs3desc,gfs4Desc,originalBudget,totalBudget,actual
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,111,1111,111101,,,,11,111,1111,Taxes,"Taxes on income, profits, and capital gains",Payable by individuals,236173,236173,688887.3865
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,111,1111,111102,,,,11,111,1111,Taxes,"Taxes on income, profits, and capital gains",Payable by individuals,590400,590400,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,111,1111,111103,,,,11,111,1111,Taxes,"Taxes on income, profits, and capital gains",Payable by individuals,1953000,1953000,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,111,1112,111201,,,,11,111,1112,Taxes,"Taxes on income, profits, and capital gains",Payable by corporations and other enterprises,-,-,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,111,1112,111202,,,,11,111,1112,Taxes,"Taxes on income, profits, and capital gains",Payable by corporations and other enterprises,-,-,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,111,1112,111203,,,,11,111,1112,Taxes,"Taxes on income, profits, and capital gains",Payable by corporations and other enterprises,-,-,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,111,1112,111204,,,,11,111,1112,Taxes,"Taxes on income, profits, and capital gains",Payable by corporations and other enterprises,756000,756000,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,111,1112,111205,,,,11,111,1112,Taxes,"Taxes on income, profits, and capital gains",Payable by corporations and other enterprises,-,-,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1141,114101,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,116550,116550,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1141,114102,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,134400,134400,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1142,114201,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,1717730,1717730,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1142,114202,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,429600,429600,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1142,114203,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,313137,313137,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1142,114204,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,58275,58275,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1142,114205,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,253286,253286,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1142,114206,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,164155,164155,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1142,114207,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,324411,324411,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1142,114208,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,300000,300000,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1142,114209,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,125000,125000,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1143,114301,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,1721250,1721250,1627000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1143,114302,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,3293414,3293414,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1143,114303,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,57600,57600,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1143,114304,,,,11,114,1141,Taxes,Taxes on goods & services,General taxes on goods & services,124920,124920,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1144,114402,,,,11,114,1144,Taxes,Taxes on goods & services,Taxes on specific services,50000,50000,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1144,114403,,,,11,114,1144,Taxes,Taxes on goods & services,Taxes on specific services,2627147,2627147,2920035
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1144,114404,,,,11,114,1144,Taxes,Taxes on goods & services,Taxes on specific services,1512000,1512000,522221.37
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,114,1144,114405,,,,11,114,1144,Taxes,Taxes on goods & services,Taxes on specific services,1141000,1141000,564651
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115101,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,2142882,2142882,4827448
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115102,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,365951,365951,743102
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115103,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,3741331,3741331,8516768
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115104,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,3516662,3516662,5143664
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115106,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,172134,172134,611809
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115107,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,7221150,7221150,6600000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115108,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,1353991,1353991,2233226
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115109,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,2761866,2761866,2034787
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115110,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,476641,476641,1047403
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115111,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,1509138,1509138,2236115
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115112,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,1074776,1074776,1190334
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115113,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,980954,980954,1348743
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115114,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,355931,355931,951696
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115115,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,123817,123817,973857
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115116,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,329743,329743,212636
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115117,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,13581,13581,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115118,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,204816,204816,492491
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115119,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,-,-,305873
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115120,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,1449125,1449125,2484825
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115121,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,104735,104735,605336
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115122,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,2441723,2441723,4623796
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115123,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,626644,626644,1563715
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115124,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,60974,60974,68754
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,11,115,1151,115125,,,,11,115,1151,Taxes,Taxes on international trade and transactions,Customs and other import duties,2335742,2335742,9912032
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,14,142,1421,142101,,,,14,142,1422,Other revenue,Sales of goods and services,Administrative fees,360000,360000,325652.5
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,14,142,1421,142103,,,,14,142,1422,Other revenue,Sales of goods and services,Administrative fees,540000,540000,1021335.35
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,14,142,1421,142105,,,,14,142,1422,Other revenue,Sales of goods and services,Administrative fees,1644000,1644000,2761214.72
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,28,280,2801,280100,,,,14,145,1452,Other revenue,"Premiums, fees, and claims related to nonlife insurance and standardized guarantee schemes",Capital claims receivable,-,-,6000000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,28,280,2802,280200,,,,14,145,1452,Other revenue,"Premiums, fees, and claims related to nonlife insurance and standardized guarantee schemes",Capital claims receivable,-,-,610000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,132,1322,132200,,,,13,132,1322,Grants,From international organizations,Capital,4000000,4000000,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,132,1322,132200,,,,13,132,1322,Grants,From international organizations,Capital,-,-,479304
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,132,1322,132200,,,,13,132,1322,Grants,From international organizations,Capital,-,-,6738572.72
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,132,1322,132200,,,,13,132,1322,Grants,From international organizations,Capital,29900000,29900000,31500000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,132,1322,132200,,,,13,132,1322,Grants,From international organizations,Capital,-,-,2953615
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,132,1322,132200,,,,13,132,1322,Grants,From international organizations,Capital,6875400,6875400,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,132,1322,132200,,,,13,132,1322,Grants,From international organizations,Capital,8000000,8000000,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,132,1321,132100,,,,13,132,1321,Grants,From international organizations,Current,3000000,3000000,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,132,1321,132100,,,,13,132,1321,Grants,From international organizations,Current,2000000,2000000,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,133,1330,133000,,,,,,,,,,6603600,6603600,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Revenue,,,,,,1,13,133,1332,133200,,,,13,132,1322,Grants,From international organizations,Capital,6603600,6603600,
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,101,10101,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,1446084,1446084,1351900
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,101,10101,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,286800,286800,286000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,101,10101,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,240000,240000,240000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,101,10101,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",360000,360000,360000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,101,10101,2,22,221,2214,,,,,22,221,2215,Use of goods and services,General operating expenses,Repairs and maintenance,42000,42000,42000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,101,10101,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,48840,48840,48840
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,101,10101,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,1020000,1020000,1020000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,101,10101,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,240000,240000,240000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10201,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,763476,763476,706039
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10201,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,126000,126000,122200
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10201,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,122000,122000,121998.26
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10201,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,78000,78000,78000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10201,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",147984,147984,147482
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10201,2,22,221,2214,,,,,22,221,2215,Use of goods and services,General operating expenses,Repairs and maintenance,63972,63972,63972
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10201,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,196972,196972,196968
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10201,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,300000,300000,250000.56
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10201,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,320000,320000,319996.62
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10202,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,12141000,12141000,12087300
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10202,2,22,225,2251,,,,,22,225,2251,Use of goods and services,"Materials, supplies and services",Health and hygiene,167972,167972,167970.26
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,102,10202,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,727000,727000,577782.91
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,103,10301,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,628464,628464,582145
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,103,10301,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,347536,347536,345535.96
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,103,10301,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,1436000,1436000,1436000.04
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,103,10301,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",156000,156000,156000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,103,10301,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,180000,180000,180000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,103,10301,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,240000,240000,240000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,103,10301,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,192000,192000,192000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10401,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,484380,484380,479970
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10401,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,206800,206800,212996
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10401,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,89760,89760,89760
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10401,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",72000,72000,72000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10401,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,72000,72000,72000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10401,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,210000,210000,183150
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10402,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,1068680,1068680,-
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10402,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,712000,712000,-
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10402,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,1300000,1300000,711077
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10402,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,180000,180000,-
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,104,10402,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,1080000,1080000,533068
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10501,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,2568178,2568178,2500436
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10501,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,141600,141600,133400
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10501,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,132000,132000,131999.2
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10501,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,36000,36000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10501,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",78000,78000,71500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10501,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,138000,138000,138000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10501,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,138000,138000,137677
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10501,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,1340000,1340000,1307512.4
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10504,2,22,224,2241,,,,,22,224,2241,Use of goods and services,Administrative expenses,Bank charges and commissions,-,-,5300171.54
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,105,10504,2,26,264,2640,,,,,26,263,2632,Grants,To other general government units,Capital,-,-,7487366.53
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,107,10701,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,827304,827304,782628
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,107,10701,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,103200,103200,100700
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,107,10701,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,30000,30000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,107,10701,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,15000,15000,9000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,107,10701,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",15000,15000,9000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,107,10701,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,15000,15000,9000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,107,10701,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,66000,66000,62850
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,107,10701,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,13216000,13216000,8975382.5
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10901,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,497448,497448,460144
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10901,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,120000,120000,115800
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10901,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,72000,72000,42000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10901,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,36000,36000,21000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10901,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",54000,54000,31500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10901,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,42000,42000,24500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10901,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,72000,72000,56550
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10901,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,700000,700000,699640
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10902,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,1260000,1260000,1239140
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10902,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10902,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",36000,36000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10902,2,22,221,2214,,,,,22,221,2215,Use of goods and services,General operating expenses,Repairs and maintenance,18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10902,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,12000,12000,12000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10902,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,11500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10902,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,1054000,1054000,1053863
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10903,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,308736,308736,308501
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10903,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,36000,36000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10903,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10903,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,9000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10903,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,9000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10903,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,9000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10903,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,14000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10904,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,387252,387252,292203
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10904,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,26400,26400,34800
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10904,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,15000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10904,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10904,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10904,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10904,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,6000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10905,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,735300,735300,734789
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10905,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,327600,327600,327600
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10905,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,15000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10905,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10905,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10905,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10905,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,-
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10906,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,85404,85404,85404
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10906,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,49200,49200,49200
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10906,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,15000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10906,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10906,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10906,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10906,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,-
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10911,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,64812,64812,64812
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10911,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,19200,19200,19200
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10921,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,15000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10921,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10921,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10921,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,109,10921,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,20000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,110,11001,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,225240,225240,224970
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,110,11001,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,103200,103200,103200
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,110,11001,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,15000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,110,11001,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,110,11001,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,110,11001,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,110,11001,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,24000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,111,11101,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,202488,202488,202488
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,111,11101,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,92400,92400,92400
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,111,11101,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,15000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,111,11101,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,111,11101,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,111,11101,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,7500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,111,11101,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,16000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,112,11201,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,96120,96120,85973
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,112,11201,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,44400,44400,37500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,112,11201,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,24000,24000,12000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,112,11201,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,12000,12000,6000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,112,11201,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",12000,12000,6000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,112,11201,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,72000,72000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,112,11201,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,113,11301,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,290742,290742,264090
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,113,11301,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,39600,39600,36800
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,113,11301,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,84000,84000,84000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,113,11301,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,113,11301,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,113,11301,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,113,11301,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,30000,30000,30000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,113,11301,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,235262,235262,235256.1
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,114,11401,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,245946,245946,220117
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,114,11401,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,46800,46800,44300
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,114,11401,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,114,11401,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,114,11401,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,114,11401,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,114,11401,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,23000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,114,11401,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,258482,258482,258472
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,115,11501,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,231744,231744,231384
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,115,11501,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,50400,50400,50400
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,115,11501,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,115,11501,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,115,11501,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,115,11501,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,1,Administration,1,115,11501,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,19380,19380,19740
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20101,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,252276,252276,240225
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20101,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,54000,54000,52300
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20101,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,54000,54000,49500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20101,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",36000,36000,31355
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20101,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,36000,36000,31400
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20101,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,72000,72000,67412
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20101,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,2453000,2453000,2295595
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20102,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,23790404,23790404,13751700
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20102,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,2656000,2656000,2645734.73
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20102,2,22,221,2214,,,,,22,221,2215,Use of goods and services,General operating expenses,Repairs and maintenance,120000,120000,110000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20102,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,60000,60000,60000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20102,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,36000,36000,16900
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20102,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,14593296,14593296,11606790.2
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20103,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,115200,115200,115200
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20103,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,60000,60000,60000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20103,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,36000,36000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20103,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",66000,66000,65500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20103,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,36000,36000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20103,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,24000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,201,20103,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,68000,68000,68000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20202,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,10203600,10203600,3000000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20202,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,240000,240000,240000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20202,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",1040000,1040000,1040000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20202,2,22,221,2214,,,,,22,221,2215,Use of goods and services,General operating expenses,Repairs and maintenance,60000,60000,55000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20202,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,120000,120000,120000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20202,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,24000,24000,21200
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20202,2,22,225,2251,,,,,22,225,2251,Use of goods and services,"Materials, supplies and services",Health and hygiene,60000,60000,55000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20202,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,4348000,4348000,3755583
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20203,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,1170000,1170000,1170000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20203,2,22,225,2256,,,,,22,225,2256,Use of goods and services,"Materials, supplies and services",Special operational services,1069200,1069200,712800
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20203,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,4090800,4090800,3212200
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20204,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,606000,606000,525000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20204,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,135720,135720,116100
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20204,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,50400,50400,45000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20204,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",56766,56766,51305
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20204,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,48000,48000,44000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,2,Security,2,202,20204,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,180000,180000,8800
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,301,30101,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,1479120,1479120,1356466
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,301,30101,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,188400,188400,181700
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,301,30101,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,108000,108000,90000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,301,30101,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,54000,54000,45000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,301,30101,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",54000,54000,45000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,301,30101,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,54000,54000,45000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,301,30101,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,108000,108000,58046
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,306,30601,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,1682412,1682412,1681570
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,306,30601,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,109200,109200,109200
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,306,30601,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,708000,708000,704000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,306,30601,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,16500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,306,30601,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",192000,192000,175600
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,306,30601,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,306,30601,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,36000,36000,32400
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,306,30601,2,22,226,2261,,,,,22,226,2261,Use of goods and services,Other expenses,Other expenses,84000,84000,84000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,308,30801,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,731976,731976,744269
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,308,30801,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,136800,136800,128900
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,308,30801,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,72000,72000,36000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,308,30801,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,36000,36000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,308,30801,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",36000,36000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,308,30801,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,36000,36000,18000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,308,30801,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,72000,72000,66457
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,311,31101,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,497584,497584,463586
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,311,31101,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,66000,66000,63500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,311,31101,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,36000,36000,21000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,311,31101,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,18000,18000,10500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,311,31101,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",18000,18000,10500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,311,31101,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,18000,18000,10500
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,3,Economic,3,311,31101,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,36000,36000,33000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,4,Social,4,401,40101,2,21,211,2111,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,1658662,1658662,1533736
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,4,Social,4,401,40101,2,21,211,2112,,,,,21,211,2111,Compensation of employees,Wages and salaries,Wages and salaries in cash,232800,232800,220400
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,4,Social,4,401,40101,2,22,221,2211,,,,,22,221,2211,Use of goods and services,General operating expenses,Utilities,144000,144000,144000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,4,Social,4,401,40101,2,22,221,2212,,,,,22,221,2212,Use of goods and services,General operating expenses,Rent,72000,72000,72000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,4,Social,4,401,40101,2,22,221,2213,,,,,22,221,2213,Use of goods and services,General operating expenses,"Fuel, oil and lubricants",72000,72000,72000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,4,Social,4,401,40101,2,22,221,2215,,,,,22,221,2214,Use of goods and services,General operating expenses,Office materials and supplies,72000,72000,72000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,4,Social,4,401,40101,2,22,221,2216,,,,,22,221,2216,Use of goods and services,General operating expenses,Travel,144000,144000,144000
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,Expense,4,Social,4,401,40101,2,23,231,2314,,,,,31,311,3113,Nonfinancial assets,Fixed assets,,7181760,7181760,-
+dbSomaliaFgsRevExp,fgs,2013,Dec,2013-12,,,,5,501,50101,9,99,991,9910,,,,,,,,,,,3600000,3600000,-
